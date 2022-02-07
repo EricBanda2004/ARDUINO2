@@ -33,6 +33,7 @@ void loop()
   espaiL();
   //I
   punt();
+  punt();
   //Espai entre lletres
   espaiL();
   //C
